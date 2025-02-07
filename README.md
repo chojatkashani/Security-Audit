@@ -8,6 +8,8 @@
 
 **Goals:** Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices need to be implemented to  improve Botium Toys’ security posture.
 
+
+
 ## Current assets
 
 Assets managed by the IT Department include: 
@@ -20,6 +22,8 @@ Assets managed by the IT Department include:
 - Data retention and storage
 - Legacy system maintenance: end-of-life systems that require human monitoring 
 
+
+
 ## Risk assessment
 
 **Risk description**
@@ -30,6 +34,8 @@ The first of the five functions of the NIST CSF is Identify. Botium Toys will ne
 
 **Risk score**
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to compliance best practices.
+
+
 
 **Additional comments**
 The potential impact from the loss of an asset is rated as medium, because the IT department does not know which assets would be at risk. The risk to assets or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not fully adhering to best practices related to compliance regulations that keep critical data private/secure. Review the following bullet points for specific details:
@@ -47,5 +53,12 @@ The potential impact from the loss of an asset is rated as medium, because the I
 - There is no centralized password management system that enforces the password policy’s minimum requirements, which sometimes affects productivity when employees/vendors submit a ticket to the IT department to recover or reset a password.
 - While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
+
+
+## Recommendations: 
+*Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.*
+
+*To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.*
+
 
 
